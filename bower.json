@@ -1,0 +1,19 @@
+{
+  "name": "materialize-utilities",
+  "description": "Materialize CSS utility belt",
+  "main": "index.js",
+  "authors": [
+    "Ahmet Ertem <amadertem@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ahmetertem/materialize-utilities",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

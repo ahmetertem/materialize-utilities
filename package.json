@@ -1,0 +1,29 @@
+{
+	"name": "materialize-utilities",
+	"version": "1.0.0",
+	"description": "Materialize CSS utility belt",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmetertem/materialize-utilities.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ahmetertem/materialize-utilities/issues"
+	},
+	"homepage": "https://github.com/ahmetertem/materialize-utilities#readme",
+	"devDependencies": {
+
+	},
+	"dependencies": {
+		"grunt": "^0.4.5",
+		"node-sass": "^4.3.0",
+		"grunt-contrib-watch": "^1.0.0",
+		"grunt-notify": "^0.4.5",
+		"grunt-sass": "^2.0.0"
+	}
+}
