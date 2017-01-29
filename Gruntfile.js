@@ -67,4 +67,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-notify');
     grunt.registerTask('release', ['sass:expanded', 'sass:min']);
     grunt.registerTask('sass_compile', ['notify:sass_compile', 'release']);
+    grunt.registerTask('default', ['release']);
 };

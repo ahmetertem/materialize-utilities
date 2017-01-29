@@ -1,7 +1,3 @@
-.no-wrap {
-  white-space: nowrap;
-}
-
 .btn-small,
 .btn-xsmall {
   text-decoration: none;
@@ -36,4 +32,8 @@
   line-height: inherit;
   font-size: 1.3rem;
   margin-right: 5px;
+}
+
+.no-wrap {
+  white-space: nowrap;
 }
